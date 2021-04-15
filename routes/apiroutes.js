@@ -30,7 +30,7 @@ module.exports = function(app) {
         if (err) throw err;
       });
     });
-    res.send('Thank you for your note!');
+    res.send('Thanks for your note!');
   });
 
  
