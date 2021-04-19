@@ -10,6 +10,5 @@
     MySQL
     
   ## Deployed Application
-    https://github.com/Daylan-lewandowski/express-note-taker/public/index
-    
+    https://daylan-lewandowski.github.io/express-note-taker/public/index
    
